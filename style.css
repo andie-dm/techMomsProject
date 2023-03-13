@@ -151,6 +151,7 @@ div.polaroid {
   
 div.polaroid:hover {
   box-shadow: 0 4px 8px 0 rgba(216, 15, 190, 0.16), 0 6px 20px 0 rgba(216, 27, 200, 0.12);
+  cursor:pointer;
 }
 
   div.container {
