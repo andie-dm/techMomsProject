@@ -361,6 +361,12 @@ padding-left: 20px;
    padding-left: 10px;
    }
 
+   #findme{
+    display:flex;
+    
+     flex:50%;
+   }
+
 .findmeon{
   height: 35px;
   display: flex;
@@ -368,6 +374,9 @@ padding-left: 20px;
   justify-content:center;
   padding-bottom: 25px;
   }
+
+  
+  
 
   /* about page */
 
