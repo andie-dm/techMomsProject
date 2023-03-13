@@ -151,6 +151,7 @@ div.polaroid {
   
 div.polaroid:hover {
   box-shadow: 0 4px 8px 0 rgba(216, 15, 190, 0.16), 0 6px 20px 0 rgba(216, 27, 200, 0.12);
+  color:#C7647B;
   cursor:pointer;
 }
 
@@ -310,15 +311,39 @@ footer {
     background-color: #9e6f6d;
 }
 
-.square {
+/* .square {
+  margin-right: 10px;
+  color: #333;
+  font-size: 25px;
+} */
+
+.fa-brands {
+  margin-right: 10px;
+  color: #333;
+  font-size: 20px;
+}
+
+.fa-brands:hover {
+  color: #C7647B;
+}
+
+.foot-link{
   margin-right: 10px;
   color: #333;
   font-size: 25px;
 }
 
-.square:hover {
-  color: #C7647B;
+.git-icon{
+  height: 20px;
+  color:#eae6e6;
 }
+
+.git-icon:hover{
+  color:#C7647B;
+}
+/* .square:hover {
+  color: #C7647B;
+} */
 
 .icons-flex {
 padding-left: 20px;
